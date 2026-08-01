@@ -33,7 +33,6 @@
 ### Tools
 - Git
 - GitHub
-- VS Code
 
 ---
 
@@ -48,14 +47,6 @@ https://gundlapallymahalakshmi.github.io/MaanavTools/
 
 🔗 Repository:
 https://github.com/gundlapallymahalakshmi/MaanavTools
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gundlapallymahalakshmi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gundlapallymahalakshmi&layout=compact&theme=tokyonight)
 
 ---
 
