@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahalakshmi Gundlapally
 
-### Computer Science Engineering Student | Web Developer | Learning Data Structures & AI
+### Computer Science Engineering Student | Web Developer 
 
 🎓 3rd Year CSE Student at Pallavi Engineering College
 
